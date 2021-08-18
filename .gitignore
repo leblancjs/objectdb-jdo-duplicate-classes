@@ -1,0 +1,14 @@
+# Ignored (general)
+target/
+
+bin/
+# Ignored (Eclipse)
+*.prefs
+.classpath
+.project
+eclipse/
+
+# Ignored (IntelliJ)
+*.iml
+.idea/
+dev/
