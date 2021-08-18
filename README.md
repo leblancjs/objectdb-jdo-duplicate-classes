@@ -1,4 +1,5 @@
 # ObjectDB - JDO Duplicate Classes
+This repository was created as a companion to the following thread in the ObjectDB forum: [Why does ObjectDB duplicate classes from javax.jdo:jdo-api?](https://www.objectdb.com/forum/2709).
 ## Prerequisites
 * JDK 11
 * Maven 3
